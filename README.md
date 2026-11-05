@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Sushian 👋
 
-<!--
-**Suushian/Suushian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Vibe Coder · Developer · Builder**
 
-Here are some ideas to get you started:
+I turn ideas into software, explore new technologies, and build practical tools that solve real problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I Do
+- Build software with AI-assisted development.
+- Explore automation, APIs, and modern technologies.
+- Design and improve real-world applications.
+- Focus on clean architecture, efficiency, and continuous learning.
+
+### Featured Project
+
+**[Odin Assistant](https://github.com/Suushian/Odin-Assistant)**  
+An open-source Forex & Gold market analysis assistant, built to make market intelligence more accessible and actionable.
+
+### Philosophy
+
+*Build with curiosity. Learn by creating. Improve continuously.*
+
+---
+
+<sub>Always exploring. Always building.</sub>
