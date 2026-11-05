@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-labelledby="title desc">
+  <title id="title">Odin Assistant</title>
+  <desc id="desc">Odin Assistant, an open-source Forex and Gold market analysis platform.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071321"/><stop offset="1" stop-color="#142D50"/></linearGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#55B7FF"/><stop offset="1" stop-color="#1268E8"/></linearGradient>
+    <radialGradient id="halo"><stop stop-color="#1685F8" stop-opacity=".3"/><stop offset="1" stop-color="#1685F8" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="250" rx="22" fill="url(#bg)"/>
+  <circle cx="155" cy="125" r="110" fill="url(#halo)"/>
+  <path d="M82 119c0-43 30-72 75-72s76 29 76 72c0 34-18 57-44 67v22l-32-19c-45 0-75-27-75-70Z" fill="url(#blue)"/>
+  <rect x="123" y="91" width="22" height="65" rx="11" fill="#fff"/>
+  <rect x="161" y="91" width="22" height="65" rx="11" fill="#fff"/>
+  <text x="285" y="112" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="52" font-weight="750" letter-spacing="2">ODIN ASSISTANT</text>
+  <text x="288" y="158" fill="#93C5FD" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21" letter-spacing="2">FOREX &amp; GOLD MARKET INTELLIGENCE</text>
+  <text x="288" y="198" fill="#A8B6CC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17">Multi-timeframe analysis · Structured insights · Decision support</text>
+  <path d="M1030 55v140" stroke="#60A5FA" stroke-opacity=".22"/>
+  <circle cx="1090" cy="125" r="34" fill="none" stroke="#60A5FA" stroke-opacity=".45"/>
+  <path d="M1074 126l11 11 22-26" fill="none" stroke="#7DD3FC" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
