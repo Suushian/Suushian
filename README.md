@@ -1,104 +1,84 @@
-<!-- ═══════════════════════ HERO ═══════════════════════ -->
+<!-- Local assets only: all profile artwork is stored in this repository. -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,50:142B4A,100:2563EB&text=SUSHIAN&fontColor=FFFFFF&fontSize=58&fontAlignY=40&desc=IDEAS%20%20%E2%80%A2%20%20CODE%20%20%E2%80%A2%20%20INNOVATION&descAlignY=60&descSize=15&animation=fadeIn" />
+<img src="assets/profile-header.svg" width="100%" alt="Sushian — Ideas, Code, Innovation" />
 
-<br>
+<br />
 
-### `Vibe Coder` &nbsp;·&nbsp; `Independent Builder` &nbsp;·&nbsp; `Tech Enthusiast`
+**Vibe Coder** &nbsp;·&nbsp; **Independent Builder** &nbsp;·&nbsp; **Tech Enthusiast**
 
-*Turning ideas into useful software through curiosity, creativity, and code.*
+*I turn ideas into useful software through curiosity, experimentation, and code.*
 
-<br>
+<br />
 
-<a href="https://github.com/Suushian">
-  <img src="https://komarev.com/ghpvc/?username=Suushian&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" />
+<a href="https://github.com/Suushian?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" />
 </a>
 &nbsp;
-<a href="https://github.com/Suushian?tab=followers">
-  <img src="https://img.shields.io/github/followers/Suushian?style=for-the-badge&color=142B4A&label=FOLLOWERS" />
+<a href="https://github.com/Suushian/Odin-Assistant">
+  <img src="https://img.shields.io/badge/FEATURED%20PROJECT-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Featured project: Odin Assistant" />
 </a>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════ ABOUT ═══════════════════════ -->
+## About
 
-## ◈ About Me
+I'm an independent developer focused on building practical software and exploring what can be achieved with modern technology.
 
-I'm an independent developer who enjoys transforming ideas into real-world applications.
+My workflow blends **AI-assisted development**, problem-solving, and iterative engineering — from the first idea to a working product.
 
-My approach combines **AI-assisted development**, creative problem-solving, and continuous experimentation to build software that is useful, efficient, and thoughtfully engineered.
+<table>
+  <tr>
+    <td width="50%">
+      <strong>FOCUS</strong><br />
+      Software · AI · Automation
+    </td>
+    <td width="50%">
+      <strong>APPROACH</strong><br />
+      Build · Experiment · Improve
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>INTERESTS</strong><br />
+      Product thinking · Architecture · Innovation
+    </td>
+    <td>
+      <strong>CURRENTLY BUILDING</strong><br />
+      Odin Assistant
+    </td>
+  </tr>
+</table>
 
-| | |
-|:---|:---|
-| **Focus** | Software Development · AI · Automation |
-| **Approach** | Build · Experiment · Improve |
-| **Interests** | Technology · Architecture · Innovation |
-| **Currently** | Building and evolving Odin Assistant |
+## Featured Project
 
----
-
-<!-- ═══════════════════════ PROJECT ═══════════════════════ -->
-
-## ◈ Featured Project
+<div align="center">
 
 <a href="https://github.com/Suushian/Odin-Assistant">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=105&color=0:142B4A,100:2563EB&text=ODIN%20ASSISTANT&fontColor=FFFFFF&fontSize=30&fontAlign=50&fontAlignY=50" />
+  <img src="assets/odin-project.svg" width="100%" alt="Odin Assistant — Forex and Gold market intelligence" />
 </a>
 
-<div align="center">
+**An open-source Forex &amp; Gold market analysis assistant.**
 
-### Intelligent Forex & Gold Market Analysis
+Built around multi-timeframe technical analysis, structured market insights, and decision support.
 
-An open-source market intelligence platform designed to make technical analysis more structured, accessible, and actionable.
-
-<br>
-
-`Multi-Timeframe Analysis` &nbsp; `Market Intelligence` &nbsp; `Decision Support`
-
-<br>
+<br />
 
 <a href="https://github.com/Suushian/Odin-Assistant">
-  <img src="https://img.shields.io/badge/EXPLORE_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VIEW%20ODIN%20ASSISTANT-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View Odin Assistant on GitHub" />
 </a>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════ GITHUB ═══════════════════════ -->
-
-## ◈ GitHub Analytics
-
 <div align="center">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Suushian&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" />
+**THINK CLEARLY. BUILD BOLDLY. KEEP EVOLVING.**
 
-<br>
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suushian&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-
-<br>
-
-<img width="100%" src="https://streak-stats.demolab.com?user=Suushian&theme=github-dark-blue&hide_border=true&background=0D1117" />
-
-</div>
-
----
-
-<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
-
-<div align="center">
-
-### BUILD WITH PURPOSE.
-
-**Think beyond limits. Create beyond expectations.**
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:2563EB,50:142B4A,100:0D1117" />
+<sub>Driven by curiosity. Defined by what gets built.</sub>
 
 </div>
